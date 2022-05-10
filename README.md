@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @huda-alzahabi
 - 👀 I’m interested in everything related to technology, computers, mobile apps
 - 🌱 I’m currently learning full stack web development
-- 💞️ I’m a hardworker ambitious person enhancing my skills in order to become a professional software engineer
+- 💞️ I’m a hardworking ambitious person enhancing my skills in order to become a professional software engineer
 - 📫 You can reach me via email: hudazahabi00@gmail.com
 
 <!---
