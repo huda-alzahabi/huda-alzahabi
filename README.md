@@ -14,4 +14,4 @@
 [![website](instagram-light.svg)](https://instagram.com/huda_zahabi#gh-light-mode-only)
 [![website](instagram-dark.svg)](https://instagram.com/huda_zahabi#gh-dark-mode-only)
 
-<img align="left" alt="Huda's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=huda-alzahabi&show_icons=true&hide_border=false&title_color=fcba03&icon_color=fcba03&bg_color=eeedf5&text_color=100754&border_color=0c1a25" />
+<img align="left" alt="Huda's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=huda-alzahabi&show_icons=true&hide_border=false&title_color=0320fc&icon_color=0320fc&bg_color=eeedf5&text_color=100754&border_color=0320fc" />
