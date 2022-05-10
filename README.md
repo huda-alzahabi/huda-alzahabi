@@ -8,6 +8,8 @@
 
 ### Connect with me:
 
-[![website](linkedin-light.svg)](https://www.linkedin.com/in/huda-al-zahabi-531993174)
+[![website](linkedin-light.svg)](https://www.linkedin.com/in/huda-al-zahabi-531993174/#gh-light-mode-only)
+[![website](linkedin-dark.svg)](https://www.linkedin.com/in/huda-al-zahabi-531993174/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](instagram-light.svg)](https://instagram.com/huda_zahabi#gh-light-mode-only)
+[![website](instagram-dark.svg)](https://instagram.com/huda_zahabi#gh-dark-mode-only)
