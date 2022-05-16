@@ -12,4 +12,4 @@
 [![website](linkedin-dark.svg)](https://www.linkedin.com/in/huda-al-zahabi-531993174/#gh-dark-mode-only)
 
 
-<img align="left" alt="Huda's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=huda-alzahabi&show_icons=true&hide_border=false&title_color=crimson&icon_color=crimson&bg_color=bisque&text_color=bisque&border_color=crimson" />
+<img align="left" alt="Huda's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=huda-alzahabi&show_icons=true&hide_border=false&title_color=DC143C&icon_color=DC143C&bg_color=F2D2BD&text_color=880C25&border_color=DC143C" />
