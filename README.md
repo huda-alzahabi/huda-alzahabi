@@ -9,8 +9,6 @@
 
 - 👯 I’m a hardworking ambitious person passionate about **web and mobile app development**
 
-- 👩‍💻 I aim to become a professional **full stack software engineer**
-
 - 🚴‍♂️ I love **biking, swimming, and weight training**
 
 - 👨‍💻 All of my projects are available at [https://github.com/huda-alzahabi?tab=repositories](https://github.com/huda-alzahabi?tab=repositories)
