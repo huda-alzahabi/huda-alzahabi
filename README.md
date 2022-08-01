@@ -11,8 +11,6 @@
 
 - 🚴‍♂️ I love **biking, swimming, and weight training**
 
-- 👨‍💻 All of my projects are available at [https://github.com/huda-alzahabi?tab=repositories](https://github.com/huda-alzahabi?tab=repositories)
-
 - 📫 How to reach me **hudazahabi00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
