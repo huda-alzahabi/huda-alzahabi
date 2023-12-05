@@ -24,6 +24,5 @@
 <img align="right" alt="Coding" width="30%" margin-top="15%" src="https://cdn.dribbble.com/users/795597/screenshots/6081444/mobile_development2.gif">
 
 
-<p>&nbsp;<img align="center" width="70%" src="https://github-readme-stats.vercel.app/api?username=huda-alzahabi&show_icons=true&locale=en" alt="huda-alzahabi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huda-alzahabi&" alt="huda-alzahabi" /></p>
+
