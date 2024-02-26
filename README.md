@@ -2,14 +2,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Huda Al Zahabi</h1>
-<h3 align="center">A passionate junior full stack web developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 
 - 👩‍🎓 I hold a Bachelors Degree in Computer Science from **Lebanese American University**
-
-- 👯 I’m a hardworking ambitious person passionate about **web and mobile app development**
-
-- 🚴‍♂️ I love **biking, swimming, and weight training**
 
 - 📫 How to reach me **hudazahabi00@gmail.com**
 
